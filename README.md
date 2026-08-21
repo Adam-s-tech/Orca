@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-<img src="./assets/wechat.jpg" width="520"/>
+<img width="3584" height="1346" alt="8e94110e5ebc92acd62492e9e7696c71" src="https://github.com/user-attachments/assets/635c871d-6576-4f40-81df-b9085c08946e" />
 </div>
 
 ## 🔥 Overview
